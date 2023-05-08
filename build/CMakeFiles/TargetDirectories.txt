@@ -1,0 +1,6 @@
+C:/CPP_DEV/Learning/helloworld_cli/build/CMakeFiles/helloworld_cli.dir
+C:/CPP_DEV/Learning/helloworld_cli/build/CMakeFiles/PACKAGE.dir
+C:/CPP_DEV/Learning/helloworld_cli/build/CMakeFiles/RUN_TESTS.dir
+C:/CPP_DEV/Learning/helloworld_cli/build/CMakeFiles/INSTALL.dir
+C:/CPP_DEV/Learning/helloworld_cli/build/CMakeFiles/ALL_BUILD.dir
+C:/CPP_DEV/Learning/helloworld_cli/build/CMakeFiles/ZERO_CHECK.dir
