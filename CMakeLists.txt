@@ -1,6 +1,6 @@
 cmake_minimum_required (VERSION 3.26)
 
-set(PROJECT_VESRION 0.0.${PATCH_VERSION})
+set(PROJECT_VESRION 0.1.${PATCH_VERSION})
 
 project (helloworld_cli VERSION ${PROJECT_VESRION})
 add_executable (helloworld_cli main.cpp)
