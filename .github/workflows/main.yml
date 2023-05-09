@@ -1,10 +1,10 @@
-name: 'C++ CI'
+name: CMake
 
 on:
   push:
-    branches:
-      - main
-      - feature/github_actions
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
 
 jobs:
   build:
